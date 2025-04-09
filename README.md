@@ -1,7 +1,7 @@
 3D Train Arrival At Station 🚂
 
-Project Overview
-This interactive 3D simulation recreates the dynamic experience of a train arriving at Mumbai Central Station using Three.js. The project combines realistic physics, environmental details, and multiple viewing perspectives to demonstrate advanced WebGL capabilities in a browser environment. The simulation features a complete train with animated wheels that gradually decelerates as it approaches the station signal, complete with platform elements, station architecture, and surrounding cityscape.
+Project Overview: 
+This interactive 3D simulation recreates the dynamic experience of a train arriving at Station using Three.js. The project combines realistic physics, environmental details, and multiple viewing perspectives to demonstrate advanced WebGL capabilities in a browser environment. The simulation features a complete train with animated wheels that gradually decelerates as it approaches the station signal, complete with platform elements, station architecture, and surrounding cityscape.
 
 Key Features ✨
 Core Simulation:
@@ -43,7 +43,6 @@ Programming	JavaScript (ES6)
 Additional Libs	Three.js OrbitControls, FontLoader, TextGeometry
 
 How It Works 🔧
-
 System Architecture
 
 Initialization Phase:
