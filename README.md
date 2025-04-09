@@ -1,7 +1,7 @@
 # 3D_Arrival_Of_Train_At_Station
-# 3D Train Arrival Simulation - Mumbai Central Station 🚂
+# 3D Train Arrival At Station 🚂
 
-An interactive 3D simulation of a train arriving at Mumbai Central Station, built with Three.js. 
+An interactive 3D simulation of a train arriving at Station, built with Three.js. 
 This project demonstrates realistic train animation, multiple camera perspectives, and a detailed station environment.
 
 ## Features ✨
